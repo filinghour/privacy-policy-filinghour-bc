@@ -61,10 +61,19 @@ Protecting the privacy of our users is paramount, and we adhere to relevant Indi
 
 If a parent or guardian becomes aware that a minor has provided us with information without their consent, they should contact us at <support@filinghour.com>. We will delete such information from our files within a reasonable time.
 
-## 9. CHANGES TO THIS PRIVACY POLICY
+## 9. ACCOUNT DELETION AND DISABLING
+
+Users may request to disable their FilingHour account by sending an email to support@filinghour.com. Once the account is disabled, users will no longer be able to log in to the system.
+
+**Data Retention Post-Account Disabling**
+
+Please note that disabling your account does not result in the deletion of your transaction details. These details are retained to help us track and identify fraudulent activities and are stored in accordance with applicable Indian laws and regulations. If you have questions about this retention policy, please contact us at support@filinghour.com.
+
+
+## 10. CHANGES TO THIS PRIVACY POLICY
 
 FilingHour has the discretion to update this privacy policy at any time. When we do, we will send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-## 10. CONTACT US
+## 11. CONTACT US
 
 If you have any questions about this Privacy Policy, the practices of this application, or your dealings with this application, please contact us via email at <support@filinghour.com>.
